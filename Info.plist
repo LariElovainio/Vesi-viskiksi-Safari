@@ -3,15 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>Author</key>
-	<string>Logan Collins</string>
+	<string>Lari Elovainio</string>
 	<key>Builder Version</key>
-	<string>8536.26.17</string>
+	<string>11601.5.8.1</string>
 	<key>CFBundleDisplayName</key>
-	<string>CloudToButt</string>
+	<string>Vesi viskiksi</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.sunflowersw.cloud-to-butt</string>
+	<string>com.ovai.vesiviskiksi</string>
 	<key>CFBundleInfoDictionaryVersion</key>
-	<string>6.0</string>
+	<string>1.0</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
@@ -24,12 +24,14 @@
 		<dict>
 			<key>End</key>
 			<array>
-				<string>cloudtobutt.js</string>
+				<string>vesiviskiksi.js</string>
 			</array>
 		</dict>
 	</dict>
 	<key>Description</key>
-	<string>Replaces occurrences of &apos;the cloud&apos; with &apos;my butt&apos;.</string>
+	<string>Muuttaa veden viskiksi.</string>
+	<key>DeveloperIdentifier</key>
+	<string>0000000000</string>
 	<key>ExtensionInfoDictionaryVersion</key>
 	<string>1.0</string>
 	<key>Permissions</key>
@@ -43,6 +45,6 @@
 		</dict>
 	</dict>
 	<key>Website</key>
-	<string>http://github.com/logancollins/cloud-to-butt-safari</string>
+	<string>http://larielovainio.github.io/Vesi-viskiksi/</string>
 </dict>
 </plist>
